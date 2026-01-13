@@ -1,4 +1,4 @@
-FROM alpine:3.19.0
+FROM alpine:3.23.2
 
 # Add worker user
 RUN mkdir /builds && \
